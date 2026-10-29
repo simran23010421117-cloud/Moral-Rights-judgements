@@ -5,6 +5,7 @@
 -Simran Manchanda, Section B., 
 -Sargam Gandotra, Section B, 
 -Medha Yugshree, Section B
+-Raghvendra Dixit, Section B
 
 ##Topic
 
